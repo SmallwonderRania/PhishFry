@@ -26,3 +26,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/SmallwonderRania/PhishFry.git
 cd PhishFry
 pip install -r requirements.txt
+
+Accuracy: 99.75%
+
+Precision: ~1.00
+
+Recall: ~1.00
+
+F1-score: ~1.00
