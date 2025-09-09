@@ -34,3 +34,12 @@ Precision: ~1.00
 Recall: ~1.00
 
 F1-score: ~1.00
+
+
+Deploy as a web service or browser extension for real-time phishing detection
+
+Improve model generalization with more diverse datasets
+
+Explore transformer-based models for phishing URL detection
+
+Integrate with cybersecurity dashboards for enterprise use
